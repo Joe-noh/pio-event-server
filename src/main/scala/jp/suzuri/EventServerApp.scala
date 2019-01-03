@@ -1,3 +1,5 @@
+package jp.suzuri.recommend
+
 import io.prediction.data.api.{EventServer, EventServerConfig}
 
 object EventServerApp extends App {

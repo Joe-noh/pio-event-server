@@ -4,7 +4,7 @@ lazy val root = (project in file(".")).
   enablePlugins(JavaAppPackaging).
   settings(
     inThisBuild(List(
-      organization := "jp.suzuri",
+      organization := "jp.suzuri.recommend",
       scalaVersion := "2.10.7",
       version      := "0.1.0-SNAPSHOT"
     )),
